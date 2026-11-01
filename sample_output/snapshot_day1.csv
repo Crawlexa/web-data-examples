@@ -1,0 +1,7 @@
+sku,product,price,in_stock
+SKU-1001,Wireless Earbuds,49.99,True
+SKU-1002,Smart Watch S2,129.00,True
+SKU-1003,USB-C Hub 7-in-1,34.50,True
+SKU-1004,Desk Lamp LED,22.99,False
+SKU-1005,Laptop Stand,29.95,True
+SKU-1006,Webcam 1080p,39.00,True
